@@ -8,4 +8,4 @@
 
 ### Dockefile - docker-compose MySQL
 - docker-compose up
-- docker exec -it container-name mysql -uroot -p
+- docker exec -it containername mysql -uroot -p

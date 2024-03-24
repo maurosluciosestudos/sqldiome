@@ -5,3 +5,7 @@
 - Operações: Create, Alter, Drop, Truncte, Cooment, Rename
 - Operações: Grant, Revoke
 - Operações: Commit, Rollback, Savepoint, Set transaction # sqldiome
+
+### Dockefile - docker-compose MySQL
+- docker-compose up
+- docker exec -it <container-name> mysql -uroot -p

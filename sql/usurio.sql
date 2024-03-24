@@ -1,0 +1,2 @@
+create table usuario(id int(11) auto_increment primary key, nome varchar(50) not null, email varchar(50) not null, senha
+varchar(50) not null, data_nascimento date not null, endereco int)engine=InnoDB default charset ="utf8";
